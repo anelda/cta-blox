@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-block-starter
+module github.com/anelda/escalator-blox
 
 go 1.19
